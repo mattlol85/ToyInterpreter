@@ -13,7 +13,7 @@ import org.fitznet.doomdns.toy.Lexer.TokenType;
  * 3) Check var assignments
  * 4) Define the lexer.
  */
-
+//GIT TEST
 public class ToyInterpreter {
 	static File inputFile;
 
