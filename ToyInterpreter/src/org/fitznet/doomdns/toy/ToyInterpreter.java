@@ -2,9 +2,6 @@ package org.fitznet.doomdns.toy;
 
 import java.io.*;
 import java.util.*;
-import java.util.regex.*;
-
-import org.fitznet.doomdns.toy.Lexer.TokenType;
 
 /***
  * --------GAME PLAN--------
